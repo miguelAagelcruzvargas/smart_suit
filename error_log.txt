@@ -1,0 +1,12 @@
+[2026-04-15 11:23:36] ERROR: Error al iniciar la app: 'WifiMonitorView' object has no attribute '_build_ui'
+Traceback (most recent call last):
+  File "c:\Users\MQerKAcademy\Desktop\progrmas de python\suite de herramientas\wifi_monitor_gui.py", line 1656, in <module>
+    app = WifiMonitorApp()
+  File "c:\Users\MQerKAcademy\Desktop\progrmas de python\suite de herramientas\wifi_monitor_gui.py", line 772, in __init__
+    self.view = WifiMonitorView(self)
+  File "c:\Users\MQerKAcademy\Desktop\progrmas de python\suite de herramientas\wifi_monitor_gui.py", line 735, in __init__
+    self._build_ui()
+AttributeError: 'WifiMonitorView' object has no attribute '_build_ui'
+
+[2026-04-15 11:36:42] ERROR: Error connection info: Command '['powershell', '-NoProfile', '-Command', 'Get-NetAdapter | Where-Object { $_.Status -eq "Up" } | Sort-Object { $_.NdisPhysicalMedium -eq 9 } -Descending | Select-Object -First 1 Name, InterfaceDescription, NdisPhysicalMedium, MediaType | ConvertTo-Json -Compress']' timed out after 6 seconds
+[2026-04-15 11:48:34] ERROR: Error connection info: Command '['powershell', '-NoProfile', '-Command', 'Get-NetAdapter | Where-Object { $_.Status -eq "Up" } | Sort-Object { $_.NdisPhysicalMedium -eq 9 } -Descending | Select-Object -First 1 Name, InterfaceDescription, NdisPhysicalMedium, MediaType | ConvertTo-Json -Compress']' timed out after 6 seconds

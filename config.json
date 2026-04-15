@@ -1,0 +1,27 @@
+{
+  "host_to_ping": "8.8.8.8",
+  "intervalo_s": 1,
+  "timeouts_ms": {
+    "lan": 500,
+    "wan": 1000
+  },
+  "frecuencias_s": {
+    "wifi": 2,
+    "gateway": 10,
+    "drivers": 20,
+    "conn": 20,
+    "export": 60
+  },
+  "alertas": {
+    "enabled": true,
+    "beep": false,
+    "cooldown_s": 20,
+    "umbral_lat_lan_ms": 60,
+    "umbral_lat_wan_ms": 150,
+    "umbral_loss_pct": 10.0,
+    "umbral_jitter_ms": 50
+  },
+  "export": {
+    "enabled": true
+  }
+}

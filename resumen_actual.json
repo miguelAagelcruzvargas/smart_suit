@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-04-15 11:48:28",
+  "ssid": "Buscando...",
+  "conn_type": "Detectando...",
+  "adapter_model": "Detectando...",
+  "signal": 0,
+  "speed_mbps": "0",
+  "lat_local_ms": 0.0,
+  "lat_net_ms": 0.0,
+  "ok_local": false,
+  "ok_net": false,
+  "jitter_ms": 0.0,
+  "loss_wifi_pct": 0.0,
+  "loss_wan_pct": 0.0,
+  "estado": "INICIANDO"
+}

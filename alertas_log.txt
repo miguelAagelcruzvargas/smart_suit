@@ -1,0 +1,16 @@
+[2026-04-15 11:36:36] Estado crítico: NO_WIFI
+[2026-04-15 11:36:37] Pérdida LAN alta: 100.0%
+[2026-04-15 11:36:38] Pérdida LAN alta: 50.0%
+[2026-04-15 11:36:39] Pérdida LAN alta: 33.3%
+[2026-04-15 11:36:40] Pérdida LAN alta: 25.0%
+[2026-04-15 11:36:41] Pérdida LAN alta: 20.0%
+[2026-04-15 11:36:42] Pérdida LAN alta: 16.7%
+[2026-04-15 11:36:43] Pérdida LAN alta: 14.3%
+[2026-04-15 11:36:44] Pérdida LAN alta: 12.5%
+[2026-04-15 11:36:45] Pérdida LAN alta: 11.1%
+[2026-04-15 11:48:28] Estado crítico: NO_WIFI
+[2026-04-15 11:48:29] Pérdida LAN alta: 100.0%
+[2026-04-15 11:48:30] Pérdida LAN alta: 50.0%
+[2026-04-15 11:48:31] Pérdida LAN alta: 33.3%
+[2026-04-15 11:48:32] Pérdida LAN alta: 25.0%
+[2026-04-15 11:48:33] Pérdida LAN alta: 20.0%

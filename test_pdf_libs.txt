@@ -1,0 +1,9 @@
+[reportlab]
+  ✅ OK - reportlab disponible
+
+[pikepdf]
+  ✅ OK - pikepdf 10.5.1 disponible
+
+[pypdf2]
+  ✅ OK - PyPDF2 disponible
+
