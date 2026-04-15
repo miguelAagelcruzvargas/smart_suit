@@ -22,8 +22,6 @@ wheels/
 *.egg
 
 # PowerSuite Specific
-Ejecutable/
-*.exe
 *.db
 *.log
 *.csv
